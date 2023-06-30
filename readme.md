@@ -1,6 +1,4 @@
-"Un proyecto para aprender a usar openAI API"
+"Un proyecto para levantar datos de portales inmobiliarios en la web"
 
-Completions
-Given a prompt, the model will return one or more predicted completions, and can also return the probabilities of alternative tokens at each position.
+lista de portales: https://trusted.de/immobilienportale
 
-link: https://platform.openai.com/docs/api-reference/completions
